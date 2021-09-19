@@ -1,2 +1,4 @@
 はじめてのGit
 行の追加
+・git add
+・git commit
